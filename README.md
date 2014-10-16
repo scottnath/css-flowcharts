@@ -7,6 +7,8 @@ Uses compass/SASS for building the css
 
 A work in progress....
 
+See it in (terrible) action: [scottnath.github.io/css-flowcharts](http://scottnath.github.io/css-flowcharts/)
+
 
 ## Installation
 
